@@ -1,3 +1,4 @@
 # StudentLabs Telegram Bot
-![image](https://github.com/katyabak/TgBot2024/assets/124804706/d9c8ff35-63dc-4e5a-acbe-d1d3877a6e61)
+![image](https://github.com/katyabak/TgBot2024/assets/124804706/6733486c-f6ea-41ee-a47d-c018c86601ac)
+
 
